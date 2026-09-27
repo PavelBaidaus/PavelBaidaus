@@ -1,10 +1,6 @@
 # Pavel Baidaus
 
-Data Scientist in Montréal, QC. I build uplift models, recommender systems and campaign measurement for retail CRM, on top of 19 years of credit-risk and financial analytics in banking.
-
-**Now:** machine learning for the CRM promo campaigns of the Fora grocery chain (Fozzy Group, Ukraine; 2M+ loyalty customers) as a remote contractor with Temabit. The work covers uplift models, EASE recommenders, a daily PySpark / Spark SQL feature store on Microsoft Fabric, and campaign measurement with control groups and panel regressions.
-
-**Before:** credit decisions, risk analysis and business requirements at UkrSibbank (BNP Paribas Group), 2005–2025.
+Data Scientist / Data Analyst. I build uplift models, recommender systems, churn prediction and promo campaign measurement for retail CRM, with 20 years background of credit-risk and financial analytics in banking.
 
 Code written for my employers stays private. The repositories below are competitions and public-data case studies.
 
